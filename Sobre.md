@@ -1,2 +1,2 @@
 ﻿# ProjetoAplicado1
-# MicrosoftMicrosoft e o Windows: Entre a çiderança de mercado e os desafios de flexibilidade e otimização
+# Microsoft e o Windows: Entre a çiderança de mercado e os desafios de flexibilidade e otimização
